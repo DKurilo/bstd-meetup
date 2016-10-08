@@ -22,7 +22,7 @@
 В папке bin лежит файл ttf2eot.exe. Он взят из этого проекта: https://github.com/thoroc/ttf2eot  
 Для их работы необходимо:
 
-* FontForge (предпологается, что он установлен в папку D:\FontForge\, взять его можно здесь: https://fontforge.github.io/en-US/ )
+* FontForge (предполагается, что он установлен в папку D:\FontForge\, взять его можно здесь: https://fontforge.github.io/en-US/ )
 * установленный woff2_compress.exe (https://github.com/google/woff2 ). В bat-файле используется файл из Cygwin. 
 
 ### png
